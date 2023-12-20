@@ -13,7 +13,3 @@ Untuk menjalankan:
 ## Usage
 Install postman:
 [`Postman`](https://www.postman.com/downloads/)
-
-## Hasil
-<img src='screenshot/Screenshot hasil.png' alt='Screenshot Hasil'/>
-
