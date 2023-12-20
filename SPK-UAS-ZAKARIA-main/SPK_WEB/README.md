@@ -1,6 +1,6 @@
 # Tugas UAS SPK
-Nama : Dyllan Nicholas Nathaniel<br>
-NIM : 2201011402073<br>
+Nama : Mochammad Zakaria Saputra<br>
+NIM : 201011400888<br>
 Kelas : 07-TPLP-013<br>
 
 ## Install requirements
